@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "artisan-build/jellyfish",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A skeleton-free application skeleton for Laravel",
     "keywords": [
         "laravel",
         "framework"
